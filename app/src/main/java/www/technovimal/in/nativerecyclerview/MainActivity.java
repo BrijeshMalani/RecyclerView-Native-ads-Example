@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         ContactsAdapter adapter = new ContactsAdapter(contacts);
 
 
-
+//fack
 
 
         //////////
